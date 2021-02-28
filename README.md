@@ -2,7 +2,7 @@
 
 - Testing Activities in Isolation
 
-- Testing Navigation Testing
+- Testing Navigation
 
 - Test Suites
 
